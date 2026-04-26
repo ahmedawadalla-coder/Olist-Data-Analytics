@@ -17,7 +17,7 @@ This project aims to analyze the Olist Brazilian e-commerce dataset to extract i
 - Final report and interactive dashboard.
 
 ## 4. Tools & Technologies
--- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - Jupyter Notebook
 - Microsoft SQL Server (Developer Edition or LocalDB)
 - SQL Server Management Studio (SSMS) or Azure Data Studio
